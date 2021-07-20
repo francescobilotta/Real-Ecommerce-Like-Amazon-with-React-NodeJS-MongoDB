@@ -4,7 +4,7 @@ html {
 }
 body {
   margin: 0;
-  height: 100hv; /* Full height */
+  height: 100vh; /* Full height */
   font-size: 1.6rem;
   font-family: Arial, Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -154,4 +154,17 @@ img.large {
 }
 .error {
   color: #a02020;
+}
+.alert {
+  padding: 1rem;
+  border: 0.1rem solid transparent;
+  border-radius: 0.5rem;
+}
+.alert-info {
+  color: #2020a0;
+  background-color: #e0e0ff;
+}
+.alert-danger {
+  color: #a02020;
+  background-color: #ffe0e0e0;
 }

@@ -81,3 +81,19 @@ A real full-stack fully-featured multi-seller marketplace
 
 ![Server communication established](/doc/photos/7-1.PNG)
 ![Data retrieval](/doc/photos/7-2.PNG)
+
+# 8- [Load Products From Backend]
+
+1. Edit HomeScreen.js
+2. Define products, loading and error
+3. Create useEffect
+4. Define async fetchData and call it
+5. Install axios
+6. Get data from /api/products
+7. Show them in the list
+8. Create Loading Component
+9. Create Message Box Component
+10. Use them in HomeScreen
+
+![Example of error](/doc/photos/8-1.PNG)
+![Loading on slow connection](/doc/photos/8-2.PNG)
