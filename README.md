@@ -31,3 +31,11 @@ A real full-stack fully-featured multi-seller marketplace
 5. Copy index.html content to App.js
 6. Copy style.css content to index.css
 7. Replace class with className
+
+# [Create Rating and Product Component]
+
+1. Create components/Rating.js
+2. Create div.rating
+3. Style div.rating, span and last span
+4. Create Product component
+5. Use Rating component
