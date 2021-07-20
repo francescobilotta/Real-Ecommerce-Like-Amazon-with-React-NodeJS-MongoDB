@@ -2,7 +2,7 @@
 
 A real full-stack fully-featured multi-seller marketplace
 
-# 1- [Project setup]
+## 1- [Project setup]
 
 1. [Done later in 4th step] Created Amazon folder
 2. Created template folder
@@ -12,23 +12,26 @@ A real full-stack fully-featured multi-seller marketplace
 6. Create header, main and footer
 
 ![Image of project setup](/doc/photos/1.PNG)
+_Image of project setup_
 
-# 2- [First Styling and Added Code Formatting]
+## 2- [First Styling and Added Code Formatting]
 
 1. Styled elements
 2. Prettier set up
 
 ![First styling](/doc/photos/2.PNG)
+_First styling_
 
-# 3- [Display Products]
+## 3- [Display Products]
 
 1. Create products div
 2. Add product attributes
 3. Add link, image, name and price
 
 ![Display hardcoded products](/doc/photos/3.PNG)
+_Display hardcoded products_
 
-# 4- [Create React App]
+## 4- [Create React App]
 
 1. Moved everything in Amazon folder
 2. npx create-react-app frontend in Amazon folder
@@ -39,8 +42,9 @@ A real full-stack fully-featured multi-seller marketplace
 7. Replace class with className
 
 ![Each product personalized thanks to react](/doc/photos/4.PNG)
+_Each product personalized thanks to react_
 
-# 5- [Create Rating and Product Component]
+## 5- [Create Rating and Product Component]
 
 1. Create components/Rating.js
 2. Create div.rating
@@ -48,7 +52,7 @@ A real full-stack fully-featured multi-seller marketplace
 4. Create Product component
 5. Use Rating component
 
-# 6- [Build Product Screen and Added Images to README]
+## 6- [Build Product Screen and Added Images to README]
 
 1. Install react-router-dom
 2. Use BrowserRouter and Route for Home Screen
@@ -60,11 +64,18 @@ A real full-stack fully-featured multi-seller marketplace
 8. Added images
 
 ![Example of in-stock product](/doc/photos/6-1.PNG)
-![Example of unavailable product](/doc/photos/6-2.PNG)
-![Tablet responsivity](/doc/photos/6-3.PNG)
-![Mobile responsivity](/doc/photos/6-4.PNG)
+_Example of in-stock product_
 
-# 7- [Create Node.JS Server and Numbered README]
+![Example of unavailable product](/doc/photos/6-2.PNG)
+_Example of unavailable product_
+
+![Tablet responsivity](/doc/photos/6-3.PNG)
+_Tablet responsivity_
+
+![Mobile responsivity](/doc/photos/6-4.PNG)
+_Mobile responsivity_
+
+## 7- [Create Node.JS Server and Numbered README]
 
 1. run npm init in root folder
 2. Update package.json set type: module
@@ -80,9 +91,12 @@ A real full-stack fully-featured multi-seller marketplace
 12. run npm start
 
 ![Server communication established](/doc/photos/7-1.PNG)
-![Data retrieval](/doc/photos/7-2.PNG)
+_Server communication established_
 
-# 8- [Load Products From Backend]
+![Data retrieval](/doc/photos/7-2.PNG)
+_Data retrieval_
+
+## 8- [Load Products From Backend]
 
 1. Edit HomeScreen.js
 2. Define products, loading and error
@@ -96,4 +110,7 @@ A real full-stack fully-featured multi-seller marketplace
 10. Use them in HomeScreen
 
 ![Example of error](/doc/photos/8-1.PNG)
+_Example of error_
+
 ![Loading on slow connection](/doc/photos/8-2.PNG)
+_Loading on slow connection_
