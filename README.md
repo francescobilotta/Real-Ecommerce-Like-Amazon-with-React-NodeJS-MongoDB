@@ -15,3 +15,9 @@ A real full-stack fully-featured multi-seller marketplace
 
 1. Styled elements
 2. Prettier set up
+
+# [Display products]
+
+1. Create products div
+2. Add product attributes
+3. Add link, image, name and price
