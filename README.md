@@ -11,13 +11,23 @@ A real full-stack fully-featured multi-seller marketplace
 5. Link to style.css
 6. Create header, main and footer
 
-# [First styling and Added Code Formatting]
+# [First Styling and Added Code Formatting]
 
 1. Styled elements
 2. Prettier set up
 
-# [Display products]
+# [Display Products]
 
 1. Create products div
 2. Add product attributes
 3. Add link, image, name and price
+
+# [Create React App]
+
+1. Moved everything in Amazon folder
+2. npx create-react-app frontend in Amazon folder
+3. npm start
+4. Remove unused files
+5. Copy index.html content to App.js
+6. Copy style.css content to index.css
+7. Replace class with className
