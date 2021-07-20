@@ -2,7 +2,7 @@
 
 A real full-stack fully-featured multi-seller marketplace
 
-# [Project setup]
+# 1- [Project setup]
 
 1. [Done later in 4th step] Created Amazon folder
 2. Created template folder
@@ -13,14 +13,14 @@ A real full-stack fully-featured multi-seller marketplace
 
 ![Image of project setup](/doc/photos/1.PNG)
 
-# [First Styling and Added Code Formatting]
+# 2- [First Styling and Added Code Formatting]
 
 1. Styled elements
 2. Prettier set up
 
 ![First styling](/doc/photos/2.PNG)
 
-# [Display Products]
+# 3- [Display Products]
 
 1. Create products div
 2. Add product attributes
@@ -28,7 +28,7 @@ A real full-stack fully-featured multi-seller marketplace
 
 ![Display hardcoded products](/doc/photos/3.PNG)
 
-# [Create React App]
+# 4- [Create React App]
 
 1. Moved everything in Amazon folder
 2. npx create-react-app frontend in Amazon folder
@@ -40,7 +40,7 @@ A real full-stack fully-featured multi-seller marketplace
 
 ![Each product personalized thanks to react](/doc/photos/4.PNG)
 
-# [Create Rating and Product Component]
+# 5- [Create Rating and Product Component]
 
 1. Create components/Rating.js
 2. Create div.rating
@@ -48,7 +48,7 @@ A real full-stack fully-featured multi-seller marketplace
 4. Create Product component
 5. Use Rating component
 
-# [Build Product Screen and Added Images to README]
+# 6- [Build Product Screen and Added Images to README]
 
 1. Install react-router-dom
 2. Use BrowserRouter and Route for Home Screen
@@ -63,3 +63,21 @@ A real full-stack fully-featured multi-seller marketplace
 ![Example of unavailable product](/doc/photos/6-2.PNG)
 ![Tablet responsivity](/doc/photos/6-3.PNG)
 ![Mobile responsivity](/doc/photos/6-4.PNG)
+
+# 7- [Create Node.JS Server and Numbered README]
+
+1. run npm init in root folder
+2. Update package.json set type: module
+3. Add .js to imports
+4. npm install express
+5. Create server.js
+6. Add start command as node backend/server.js
+7. Require express
+8. Create route for / return backend is ready
+9. Move products.js from frontend to backend
+10. Create route for /api/products
+11. Return products
+12. run npm start
+
+![Server communication established](/doc/photos/7-1.PNG)
+![Data retrieval](/doc/photos/7-2.PNG)
