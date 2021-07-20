@@ -11,7 +11,7 @@ A real full-stack fully-featured multi-seller marketplace
 5. Link to style.css
 6. Create header, main and footer
 
-![Image of project setup](/doc/photos/1.PNG)
+![Image of project setup](/doc/photos/1.PNG)<br/>
 _Image of project setup_
 
 ## 2- [First Styling and Added Code Formatting]
@@ -19,7 +19,7 @@ _Image of project setup_
 1. Styled elements
 2. Prettier set up
 
-![First styling](/doc/photos/2.PNG)
+![First styling](/doc/photos/2.PNG)<br/>
 _First styling_
 
 ## 3- [Display Products]
@@ -28,7 +28,7 @@ _First styling_
 2. Add product attributes
 3. Add link, image, name and price
 
-![Display hardcoded products](/doc/photos/3.PNG)
+![Display hardcoded products](/doc/photos/3.PNG)<br/>
 _Display hardcoded products_
 
 ## 4- [Create React App]
@@ -41,7 +41,7 @@ _Display hardcoded products_
 6. Copy style.css content to index.css
 7. Replace class with className
 
-![Each product personalized thanks to react](/doc/photos/4.PNG)
+![Each product personalized thanks to react](/doc/photos/4.PNG)<br/>
 _Each product personalized thanks to react_
 
 ## 5- [Create Rating and Product Component]
@@ -63,16 +63,16 @@ _Each product personalized thanks to react_
 7. Create 3 columns for product image, info and action
 8. Added images
 
-![Example of in-stock product](/doc/photos/6-1.PNG)
+![Example of in-stock product](/doc/photos/6-1.PNG)<br/>
 _Example of in-stock product_
 
-![Example of unavailable product](/doc/photos/6-2.PNG)
+![Example of unavailable product](/doc/photos/6-2.PNG)<br/>
 _Example of unavailable product_
 
-![Tablet responsivity](/doc/photos/6-3.PNG)
+![Tablet responsivity](/doc/photos/6-3.PNG)<br/>
 _Tablet responsivity_
 
-![Mobile responsivity](/doc/photos/6-4.PNG)
+![Mobile responsivity](/doc/photos/6-4.PNG)<br/>
 _Mobile responsivity_
 
 ## 7- [Create Node.JS Server and Numbered README]
@@ -90,10 +90,10 @@ _Mobile responsivity_
 11. Return products
 12. run npm start
 
-![Server communication established](/doc/photos/7-1.PNG)
+![Server communication established](/doc/photos/7-1.PNG)<br/>
 _Server communication established_
 
-![Data retrieval](/doc/photos/7-2.PNG)
+![Data retrieval](/doc/photos/7-2.PNG)<br/>
 _Data retrieval_
 
 ## 8- [Load Products From Backend]
@@ -109,8 +109,8 @@ _Data retrieval_
 9. Create Message Box Component
 10. Use them in HomeScreen
 
-![Example of error](/doc/photos/8-1.PNG)
+![Example of error](/doc/photos/8-1.PNG)<br/>
 _Example of error_
 
-![Loading on slow connection](/doc/photos/8-2.PNG)
+![Loading on slow connection](/doc/photos/8-2.PNG)<br/>
 _Loading on slow connection_
