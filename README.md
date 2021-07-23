@@ -148,3 +148,12 @@ _Example of working redux_
 
 ![Redux for Product Screen](/doc/photos/11.PNG)<br/>
 _Redux for Product Screen_
+
+## 12- [Handle Add To Cart Button]
+
+1. Handle Add To Cart in ProductScreen.js
+2. create CartScreen.js
+   ![Handle Add To Cart Button](/doc/photos/12_1.PNG)<br/>
+   _Handle Add To Cart Button_
+   ![Cart After Having Added Products](/doc/photos/12_2.PNG)<br/>
+   _Cart After Having Added Products_
