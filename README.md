@@ -138,3 +138,13 @@ _Loading on slow connection_
 
 ![Example of working redux](/doc/photos/10.PNG)<br/>
 _Example of working redux_
+
+## 11- [Add Redux to Product Screen]
+
+1. Create product details constants, actions and reducers
+2. Add reducer to store.js
+3. Use action in ProductScreen.js
+4. Add /api/product/:id to backend api
+
+![Redux for Product Screen](/doc/photos/11.PNG)<br/>
+_Redux for Product Screen_
