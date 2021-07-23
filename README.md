@@ -157,3 +157,13 @@ _Redux for Product Screen_
    _Handle Add To Cart Button_
    ![Cart After Having Added Products](/doc/photos/12_2.PNG)<br/>
    _Cart After Having Added Products_
+
+## 13- [Implement Add to Cart Action + Fixed some bugs]
+
+1. Create addToCart constants, actions and reducers
+2. Add reducer to store.js
+3. Use action in CartScreen.js
+4. Render cartItems.length
+
+   ![Example of cart in local storage as well](/doc/photos/13.PNG)<br/>
+   _Example of cart in local storage as well_
