@@ -178,3 +178,14 @@ _Redux for Product Screen_
 
    ![Example Cart Screen with Automatic Items and Price Count](/doc/photos/14.PNG)<br/>
    _Example Cart Screen with Automatic Items and Price Count_
+
+## 15- [Implement Remove From Cart Action]
+
+1. Create removeFromCart constants, actions and reducers
+2. Add reducer to store.js
+3. Use action in CartScreen.js
+
+   ![Example of Remove From Cart Action 1/2](/doc/photos/15_1.PNG)<br/>
+   _Example of Remove From Cart Action 1/2_
+   ![Example of Remove From Cart Action 2/2](/doc/photos/15_2.PNG)<br/>
+   _Example of Remove From Cart Action 2/2_
