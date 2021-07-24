@@ -167,3 +167,14 @@ _Redux for Product Screen_
 
    ![Example of cart in local storage as well](/doc/photos/13.PNG)<br/>
    _Example of cart in local storage as well_
+
+## 14- [Build Cart Screen]
+
+1. Create 2 columns for cart items and cart actions
+2. cartItems.length === 0 ? cart is empty
+3. Show item image, name, qty and price
+4. Proceed to Checkout button
+5. Implement remove from cart action
+
+   ![Example Cart Screen with Automatic Items and Price Count](/doc/photos/14.PNG)<br/>
+   _Example Cart Screen with Automatic Items and Price Count_
