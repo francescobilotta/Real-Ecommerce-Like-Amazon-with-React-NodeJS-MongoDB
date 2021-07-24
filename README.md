@@ -165,8 +165,8 @@ _Redux for Product Screen_
 3. Use action in CartScreen.js
 4. Render cartItems.length
 
-   ![Example of cart in local storage as well](/doc/photos/13.PNG)<br/>
-   _Example of cart in local storage as well_
+![Example of cart in local storage as well](/doc/photos/13.PNG)<br/>
+_Example of cart in local storage as well_
 
 ## 14- [Build Cart Screen]
 
@@ -176,8 +176,8 @@ _Redux for Product Screen_
 4. Proceed to Checkout button
 5. Implement remove from cart action
 
-   ![Example Cart Screen with Automatic Items and Price Count](/doc/photos/14.PNG)<br/>
-   _Example Cart Screen with Automatic Items and Price Count_
+![Example Cart Screen with Automatic Items and Price Count](/doc/photos/14.PNG)<br/>
+_Example Cart Screen with Automatic Items and Price Count_
 
 ## 15- [Implement Remove From Cart Action]
 
@@ -185,7 +185,26 @@ _Redux for Product Screen_
 2. Add reducer to store.js
 3. Use action in CartScreen.js
 
-   ![Example of Remove From Cart Action 1/2](/doc/photos/15_1.PNG)<br/>
-   _Example of Remove From Cart Action 1/2_
-   ![Example of Remove From Cart Action 2/2](/doc/photos/15_2.PNG)<br/>
-   _Example of Remove From Cart Action 2/2_
+![Example of Remove From Cart Action 1/2](/doc/photos/15_1.PNG)<br/>
+_Example of Remove From Cart Action 1/2_
+![Example of Remove From Cart Action 2/2](/doc/photos/15_2.PNG)<br/>
+_Example of Remove From Cart Action 2/2_
+
+## 16- [Create Sample Users In MongoDB]
+
+1. npm install mongoose
+2. Connect to mongodb
+3. Create config.js
+4. npm install dotenv
+5. Export MONGODB_URL
+6. Create models/userModel.js
+7. Create userSchema and userModel
+8. Create userRoute
+9. Seed sample data
+
+![Example of seedingDB with some user data by using "http://localhost:5000/api/users/seed" url](/doc/photos/16_1.PNG)<br/>
+_Example of seedingDB with some user data by using "http://localhost:5000/api/users/seed" url_
+![Example of error handling when trying to create the same user again](/doc/photos/16_2.PNG)<br/>
+_Example of error handling when trying to create the same user again_
+![Data on MongoDB Compass](/doc/photos/16_3.PNG)<br/>
+_Data on MongoDB Compass_
