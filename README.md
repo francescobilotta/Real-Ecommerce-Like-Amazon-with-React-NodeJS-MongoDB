@@ -11,16 +11,18 @@ A real full-stack fully-featured multi-seller marketplace
 5. Link to style.css
 6. Create header, main and footer
 
+##### _Image of project setup_
+
 ![Image of project setup](/doc/photos/1.PNG)<br/>
-_Image of project setup_
 
 ## 2- [First Styling and Added Code Formatting]
 
 1. Styled elements
 2. Prettier set up
 
+##### _First styling_
+
 ![First styling](/doc/photos/2.PNG)<br/>
-_First styling_
 
 ## 3- [Display Products]
 
@@ -28,8 +30,9 @@ _First styling_
 2. Add product attributes
 3. Add link, image, name and price
 
+##### _Display hardcoded products_
+
 ![Display hardcoded products](/doc/photos/3.PNG)<br/>
-_Display hardcoded products_
 
 ## 4- [Create React App]
 
@@ -41,8 +44,9 @@ _Display hardcoded products_
 6. Copy style.css content to index.css
 7. Replace class with className
 
+##### _Each product personalized thanks to react_
+
 ![Each product personalized thanks to react](/doc/photos/4.PNG)<br/>
-_Each product personalized thanks to react_
 
 ## 5- [Create Rating and Product Component]
 
@@ -63,17 +67,21 @@ _Each product personalized thanks to react_
 7. Create 3 columns for product image, info and action
 8. Added images
 
+##### _Example of in-stock product_
+
 ![Example of in-stock product](/doc/photos/6-1.PNG)<br/>
-_Example of in-stock product_
+
+##### _Example of unavailable product_
 
 ![Example of unavailable product](/doc/photos/6-2.PNG)<br/>
-_Example of unavailable product_
+
+##### _Tablet responsivity_
 
 ![Tablet responsivity](/doc/photos/6-3.PNG)<br/>
-_Tablet responsivity_
+
+##### _Mobile responsivity_
 
 ![Mobile responsivity](/doc/photos/6-4.PNG)<br/>
-_Mobile responsivity_
 
 ## 7- [Create Node.JS Server and Numbered README]
 
@@ -90,11 +98,13 @@ _Mobile responsivity_
 11. Return products
 12. run npm start
 
+##### _Server communication established_
+
 ![Server communication established](/doc/photos/7-1.PNG)<br/>
-_Server communication established_
+
+##### _Data retrieval_
 
 ![Data retrieval](/doc/photos/7-2.PNG)<br/>
-_Data retrieval_
 
 ## 8- [Load Products From Backend]
 
@@ -109,11 +119,13 @@ _Data retrieval_
 9. Create Message Box Component
 10. Use them in HomeScreen
 
+##### _Example of error_
+
 ![Example of error](/doc/photos/8-1.PNG)<br/>
-_Example of error_
+
+##### _Loading on slow connection_
 
 ![Loading on slow connection](/doc/photos/8-2.PNG)<br/>
-_Loading on slow connection_
 
 ## 9- [Install ESlint For Code Linting]
 
@@ -136,8 +148,9 @@ _Loading on slow connection_
 9. useEffect(()=>dispatch({type: LOAD_PRODUCTS, payload: data})
 10. Add store to index.js
 
+##### _Example of working redux_
+
 ![Example of working redux](/doc/photos/10.PNG)<br/>
-_Example of working redux_
 
 ## 11- [Add Redux to Product Screen]
 
@@ -146,17 +159,22 @@ _Example of working redux_
 3. Use action in ProductScreen.js
 4. Add /api/product/:id to backend api
 
+##### _Redux for Product Screen_
+
 ![Redux for Product Screen](/doc/photos/11.PNG)<br/>
-_Redux for Product Screen_
 
 ## 12- [Handle Add To Cart Button]
 
 1. Handle Add To Cart in ProductScreen.js
 2. create CartScreen.js
-   ![Handle Add To Cart Button](/doc/photos/12_1.PNG)<br/>
-   _Handle Add To Cart Button_
-   ![Cart After Having Added Products](/doc/photos/12_2.PNG)<br/>
-   _Cart After Having Added Products_
+
+###### _Handle Add To Cart Button_
+
+![Handle Add To Cart Button](/doc/photos/12_1.PNG)<br/>
+
+###### _Cart After Having Added Products_
+
+![Cart After Having Added Products](/doc/photos/12_2.PNG)<br/>
 
 ## 13- [Implement Add to Cart Action + Fixed some bugs]
 
@@ -165,8 +183,9 @@ _Redux for Product Screen_
 3. Use action in CartScreen.js
 4. Render cartItems.length
 
+##### _Example of cart in local storage as well_
+
 ![Example of cart in local storage as well](/doc/photos/13.PNG)<br/>
-_Example of cart in local storage as well_
 
 ## 14- [Build Cart Screen]
 
@@ -176,8 +195,9 @@ _Example of cart in local storage as well_
 4. Proceed to Checkout button
 5. Implement remove from cart action
 
+##### _Example Cart Screen with Automatic Items and Price Count_
+
 ![Example Cart Screen with Automatic Items and Price Count](/doc/photos/14.PNG)<br/>
-_Example Cart Screen with Automatic Items and Price Count_
 
 ## 15- [Implement Remove From Cart Action]
 
@@ -185,10 +205,13 @@ _Example Cart Screen with Automatic Items and Price Count_
 2. Add reducer to store.js
 3. Use action in CartScreen.js
 
+##### _Example of Remove From Cart Action 1/2_
+
 ![Example of Remove From Cart Action 1/2](/doc/photos/15_1.PNG)<br/>
-_Example of Remove From Cart Action 1/2_
+
+##### _Example of Remove From Cart Action 2/2_
+
 ![Example of Remove From Cart Action 2/2](/doc/photos/15_2.PNG)<br/>
-_Example of Remove From Cart Action 2/2_
 
 ## 16- [Create Sample Users In MongoDB]
 
@@ -202,9 +225,14 @@ _Example of Remove From Cart Action 2/2_
 8. Create userRoute
 9. Seed sample data
 
+##### _Example of seedingDB with some user data by using "http://localhost:5000/api/users/seed" url_
+
 ![Example of seedingDB with some user data by using "http://localhost:5000/api/users/seed" url](/doc/photos/16_1.PNG)<br/>
-_Example of seedingDB with some user data by using "http://localhost:5000/api/users/seed" url_
+
+##### _Example of error handling when trying to create the same user again_
+
 ![Example of error handling when trying to create the same user again](/doc/photos/16_2.PNG)<br/>
-_Example of error handling when trying to create the same user again_
+
+##### _Data on MongoDB Compass_
+
 ![Data on MongoDB Compass](/doc/photos/16_3.PNG)<br/>
-_Data on MongoDB Compass_
