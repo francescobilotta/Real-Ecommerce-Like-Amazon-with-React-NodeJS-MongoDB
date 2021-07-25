@@ -273,3 +273,14 @@ A real full-stack fully-featured multi-seller marketplace
 ##### _Unsuccessful login_
 
 ![Unsccessful login](/doc/photos/18_2.PNG)<br/>
+
+## 19- [Design SignIn Screen]
+
+1. Create SigninScreen
+2. Render email and password fields
+3. Create signin constants, actions and reducers
+4. Update Header based on user login
+
+##### _Signin screen_
+
+![Sign in screen](/doc/photos/19.PNG)<br/>
