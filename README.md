@@ -236,3 +236,22 @@ A real full-stack fully-featured multi-seller marketplace
 ##### _Data on MongoDB Compass_
 
 ![Data on MongoDB Compass](/doc/photos/16_3.PNG)<br/>
+
+## 17- [Create Sample Products In MongoDB]
+
+1. Create models/productModel.js
+2. Create productSchema and productModel
+3. Create productRoute
+4. Seed sample data
+
+##### _Example of seedingDB with some product data by using "http://localhost:5000/api/product/seed" url_
+
+![Example of seedingDB with some product data by using "http://localhost:5000/api/product/seed" url](/doc/photos/17_1.PNG)<br/>
+
+##### _Example of error handling when trying to create the same product again_
+
+![Example of error handling when trying to create the same product again](/doc/photos/17_2.PNG)<br/>
+
+##### _Data retrieved successfully on client_
+
+![Data retrieved successfully on client](/doc/photos/17_3.PNG)<br/>
