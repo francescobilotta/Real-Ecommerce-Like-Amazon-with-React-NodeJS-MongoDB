@@ -255,3 +255,21 @@ A real full-stack fully-featured multi-seller marketplace
 ##### _Data retrieved successfully on client_
 
 ![Data retrieved successfully on client](/doc/photos/17_3.PNG)<br/>
+
+## 18- [Create Sign-in Backend]
+
+1. Create /signin api
+2. Check email and password
+3. Generate token
+4. Install json web token
+5. Install dotenv
+6. Return token and data
+7. Test it using postman
+
+##### _Successful login_
+
+![Successful login](/doc/photos/18_1.PNG)<br/>
+
+##### _Unsuccessful login_
+
+![Unsccessful login](/doc/photos/18_2.PNG)<br/>
