@@ -284,3 +284,17 @@ A real full-stack fully-featured multi-seller marketplace
 ##### _Signin screen_
 
 ![Sign in screen](/doc/photos/19.PNG)<br/>
+
+## 20- [Implement SignIn Action]
+
+1. Create signin constants, actions and reducers
+2. Add reducer to store.js
+3. Use action in SigninScreen.js
+
+##### _Successful login_
+
+![Successful login](/doc/photos/20_1.PNG)<br/>
+
+##### _Unsuccessful login_
+
+![Unsuccessful login](/doc/photos/20_2.PNG)<br/>
