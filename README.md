@@ -333,3 +333,12 @@ A real full-stack fully-featured multi-seller marketplace
 ##### _Self-Saving Payment Option after check for Sign-In and Shipping Preferences_
 
 ![Self-Saving Payment Option after check for Sign-In and Shipping Preferences](/doc/photos/23.PNG)<br/>
+
+## 24- [Design Place Order Screen]
+
+1. Design order summary fields
+2. Design order action
+
+##### _Place Order UI_
+
+![Place Order UI](/doc/photos/24.PNG)<br/>
