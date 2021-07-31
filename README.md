@@ -298,3 +298,19 @@ A real full-stack fully-featured multi-seller marketplace
 ##### _Unsuccessful login_
 
 ![Unsuccessful login](/doc/photos/20_2.PNG)<br/>
+
+## 21- [Create Register Screen]
+
+1. Create API for /api/users/register
+2. Insert new user to database
+3. Return user info and token
+4. Create RegisterScreen
+5. Add fields
+6. Style fields
+7. Add screen to App.js
+8. Create register action and reducer
+9. Check validation and create user
+
+##### _Working registration page_
+
+![Working registration page](/doc/photos/21.PNG)<br/>
