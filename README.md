@@ -314,3 +314,13 @@ A real full-stack fully-featured multi-seller marketplace
 ##### _Working registration page_
 
 ![Working registration page](/doc/photos/21.PNG)<br/>
+
+## 22- [Create Shipping Screen]
+
+1. Create CheckoutSteps.js component
+2. Create shipping fields
+3. Implement shipping constant, actions and reducers
+
+##### _Self-Saving Shipping Information after check for Sign-In_
+
+![Self-Saving Shipping Information after check for Sign-In](/doc/photos/22.PNG)<br/>
