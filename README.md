@@ -324,3 +324,12 @@ A real full-stack fully-featured multi-seller marketplace
 ##### _Self-Saving Shipping Information after check for Sign-In_
 
 ![Self-Saving Shipping Information after check for Sign-In](/doc/photos/22.PNG)<br/>
+
+## 23- [Create Payment Screen]
+
+1. Create payment fields
+2. Implement shipping constant, actions and reducers
+
+##### _Self-Saving Payment Option after check for Sign-In and Shipping Preferences_
+
+![Self-Saving Payment Option after check for Sign-In and Shipping Preferences](/doc/photos/23.PNG)<br/>
