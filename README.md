@@ -342,3 +342,10 @@ A real full-stack fully-featured multi-seller marketplace
 ##### _Place Order UI_
 
 ![Place Order UI](/doc/photos/24.PNG)<br/>
+
+## 25- [Create Place Order API]
+
+1. CreateOrder api
+2. Create orderModel
+3. Create orderRouter
+4. Create post order route
