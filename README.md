@@ -349,3 +349,12 @@ A real full-stack fully-featured multi-seller marketplace
 2. Create orderModel
 3. Create orderRouter
 4. Create post order route
+
+## 26- [Implement PlaceOrder Action]
+
+1. Handle place order button click
+2. Create place order constants, action and reducer
+
+##### _OrderID created after checkout_
+
+![OrderID created after checkout](/doc/photos/25.PNG)<br/>
