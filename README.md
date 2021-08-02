@@ -358,3 +358,16 @@ A real full-stack fully-featured multi-seller marketplace
 ##### _OrderID created after checkout_
 
 ![OrderID created after checkout](/doc/photos/25.PNG)<br/>
+
+## 27- [Create Order Screen]
+
+1. Build order api for /api/orders/:id
+2. Create OrderScreen.js
+3. Dispatch order details action in useEffect
+4. Load data with useSelector
+5. Show data like place order screen
+6. Create order details constant, action and reducer
+
+##### _Order screen after checkout is completed_
+
+![Order screen after checkout is completed](/doc/photos/26.PNG)<br/>
