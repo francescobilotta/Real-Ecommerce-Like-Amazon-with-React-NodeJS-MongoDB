@@ -371,3 +371,20 @@ A real full-stack fully-featured multi-seller marketplace
 ##### _Order screen after checkout is completed_
 
 ![Order screen after checkout is completed](/doc/photos/26.PNG)<br/>
+
+## 28- [Add PayPal Button]
+
+1. Get client id from paypal
+2. Set it in .env file
+3. Create route form /api/paypal/clientId
+4. Create getPaypalClientID in api.js
+5. Add paypal checkout script in OrderScreen.js
+6. Show paypal button
+
+##### _Getting credentials on PayPayl sdk_
+
+![Getting credentials on PayPayl sdk](/doc/photos/27_1.PNG)<br/>
+
+##### _Order screen with PayPal integrated_
+
+![Order screen with PayPal integrated](/doc/photos/27_2.PNG)<br/>
